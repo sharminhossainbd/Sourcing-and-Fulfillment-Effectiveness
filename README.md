@@ -4,7 +4,7 @@
 
 This report reviews my previous company's monthly procurement and fulfillment performance from November 2019 to October 2020, focusing on several key areas, including the quantities requested and received, fulfillment rates, damaged quantities, cost price adjustments, and market purchases. The insights gained from this analysis will provide valuable guidance for improving supply chain management and enhancing operational efficiency.
 
-[<img src='https://sharminhossainbd.github.io/Customer-Support-Performance-Metrics/cs.png'>](https://sharminhossainbd.github.io/Customer-Support-Performance-Metrics/cs.png)
+[<img src='https://sharminhossainbd.github.io/Sourcing-and-Fulfillment-Effectiveness/fulfilment.png'>](https://sharminhossainbd.github.io/Sourcing-and-Fulfillment-Effectiveness/fulfilment.png)
 
 ## Key Metrics Analysis
 
